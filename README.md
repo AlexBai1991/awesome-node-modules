@@ -14,6 +14,13 @@
 - [:octocat:](https://github.com/jasmine/jasmine) [jasmine](http://jasmine.github.io/) - DOM-less simple JavaScript testing framework.
 - [:octocat:](https://github.com/jquery/qunit) [qunit](http://qunitjs.com/) - An easy-to-use JavaScript Unit Testing framework.
 
+### Assertion
+
+- [:octocat:](https://github.com/chaijs/chai) [chai](https://www.npmjs.com/package/chai) - BDD / TDD assertion framework for node.js and the browser that can be paired with any testing framework.
+- [:octocat:](https://github.com/shouldjs/should.js) [shoule.js](https://www.npmjs.com/package/should) - test framework agnostic BDD-style assertions.
+- [:octocat:](https://github.com/Automattic/expect.js) [expect.js](https://www.npmjs.com/package/expect.js) - Minimalistic BDD-style assertions for Node.JS and the browser.
+- [:octocat:](https://github.com/tj/better-assert) [better-assert](https://www.npmjs.com/package/better-assert) - C-style assert() for nodejs, reporting the expression string as the error message.
+
 ### Template Engine
 
 - [:octocat:](https://github.com/jadejs/jade) [jade](http://jade-lang.com/) - Robust, elegant, feature rich template engine for Node.js.
