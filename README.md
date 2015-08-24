@@ -36,10 +36,11 @@
 - [:octocat:](https://github.com/less/less.js) [Less](http://lesscss.org/) - The dynamic stylesheet language.
 - [:octocat:](https://github.com/sass/node-sass) [Sass](http://sass-lang.com/) - Sass is the most mature, stable, and powerful professional grade CSS extension language in the world.
 - [:octocat:](https://github.com/stylus/stylus) [Stylus](http://learnboost.github.com/stylus/) - Expressive, robust, feature-rich CSS language built for nodejs.
-- [:octocat:](https://github.com/postcss/postcss) [Postcss](https://github.com/postcss/postcss) - PostCSS is a tool for transforming styles with JS plugins. These plugins can support variables and mixins, transpile future CSS syntax, inline images, and more.
+- [:octocat:](https://github.com/postcss/postcss) [Postcss](https://www.npmjs.com/package/postcss) - PostCSS is a tool for transforming styles with JS plugins. These plugins can support variables and mixins, transpile future CSS syntax, inline images, and more.
 
 ### other
 
 - [:octocat:](https://github.com/babel/babel) [Babel](https://babeljs.io/) - Babel is a compiler for writing next generation JavaScript.
 - [:octocat:](https://github.com/tj/commander.js) [commander](https://www.npmjs.com/package/commander) - The complete solution for node.js command-line programs.
 - [:octocat:](https://github.com/substack/node-optimist) [optimist](https://www.npmjs.com/package/optimist) - Light-weight option parsing for node.js.
+- [:octocat:](https://github.com/npm/node-semver) [semver](https://www.npmjs.com/package/semver) - The semantic version parser used by npm.
