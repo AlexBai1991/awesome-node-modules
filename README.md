@@ -51,3 +51,9 @@
 - [:octocat:](https://github.com/tj/commander.js) [commander](https://www.npmjs.com/package/commander) - The complete solution for node.js command-line programs.
 - [:octocat:](https://github.com/substack/node-optimist) [optimist](https://www.npmjs.com/package/optimist) - Light-weight option parsing for node.js.
 - [:octocat:](https://github.com/npm/node-semver) [semver](https://www.npmjs.com/package/semver) - The semantic version parser used by npm.
+
+### Markdown
+
+- [:octocat:](https://github.com/GitbookIO/kramed) [kramed](https://www.npmjs.com/package/kramed) - A markdown (kramdown compatible) parser and compiler. Built for speed.
+- [:octocat:](https://github.com/evilstreak/markdown-js) [markdown](https://www.npmjs.com/package/markdown) - A Markdown parser for javascript.
+- [:octocat:](https://github.com/chjj/marked) [marked](https://www.npmjs.com/package/marked) - A full-featured markdown parser and compiler, written in JavaScript. Built for speed.
