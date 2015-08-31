@@ -2,6 +2,7 @@
 
 - [:octocat:](https://github.com/indexzero/http-server) [http-server](https://www.npmjs.com/package/http-server) - A simple zero-configuration command-line http server.
 - [:octocat:](https://github.com/nodejitsu/node-http-proxy) [http-proxy](https://www.npmjs.com/package/http-proxy) - An HTTP programmable proxying library that supports websockets. It is suitable for implementing components such as proxies and load balancers.
+- [router](https://github.com/pillarjs/router) - Simple middleware-style router.
 
 ### Web Framework
 - [:octocat:](https://github.com/strongloop/express) [Express](http://expressjs.com/) - Fast, unopinionated, minimalist web framework for node.
