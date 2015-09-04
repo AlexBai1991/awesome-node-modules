@@ -55,6 +55,7 @@
 
 ### Markdown
 
-- [:octocat:](https://github.com/GitbookIO/kramed) [kramed](https://www.npmjs.com/package/kramed) - A markdown (kramdown compatible) parser and compiler. Built for speed.
-- [:octocat:](https://github.com/evilstreak/markdown-js) [markdown](https://www.npmjs.com/package/markdown) - A Markdown parser for javascript.
-- [:octocat:](https://github.com/chjj/marked) [marked](https://www.npmjs.com/package/marked) - A full-featured markdown parser and compiler, written in JavaScript. Built for speed.
+- [kramed](https://github.com/GitbookIO/kramed) - A markdown (kramdown compatible) parser and compiler. Built for speed.
+- [markdown](https://github.com/evilstreak/markdown-js) - A Markdown parser for javascript.
+- [marked](https://github.com/chjj/marked) - A full-featured markdown parser and compiler, written in JavaScript. Built for speed.
+- [gitbook](https://github.com/GitbookIO/gitbook) - Modern book format and toolchain using Git and Markdown.
