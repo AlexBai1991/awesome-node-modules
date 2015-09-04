@@ -60,6 +60,7 @@
 - [markdown](https://github.com/evilstreak/markdown-js) - A Markdown parser for javascript.
 - [marked](https://github.com/chjj/marked) - A full-featured markdown parser and compiler, written in JavaScript. Built for speed.
 - [gitbook](https://github.com/GitbookIO/gitbook) - Modern book format and toolchain using Git and Markdown.
+- [dox](https://github.com/tj/dox) - JavaScript documentation generator for node using markdown and jsdoc.
 
 ### Utils
 
