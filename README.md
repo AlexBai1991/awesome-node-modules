@@ -59,3 +59,7 @@
 - [markdown](https://github.com/evilstreak/markdown-js) - A Markdown parser for javascript.
 - [marked](https://github.com/chjj/marked) - A full-featured markdown parser and compiler, written in JavaScript. Built for speed.
 - [gitbook](https://github.com/GitbookIO/gitbook) - Modern book format and toolchain using Git and Markdown.
+
+### Utils
+
+- [extend](https://github.com/justmoon/node-extend) - Port of jQuery.extend for node.js and the browser.
