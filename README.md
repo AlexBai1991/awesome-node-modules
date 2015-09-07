@@ -35,24 +35,24 @@
 
 ### Build Tools & Module Loaders
 
-- [:octocat:](https://github.com/webpack/webpack) [webpack](https://webpack.github.io/) - A bundler for javascript and friends.
-- [:octocat:](https://github.com/gulpjs/gulp) [gulp](http://gulpjs.com/) - The streaming build system.
-- [:octocat:](https://github.com/gruntjs/grunt) [grunt](http://gruntjs.com/) - The JavaScript Task Runner.
-- [:octocat:](https://github.com/substack/node-browserify) [browserify](http://browserify.org/) - Browser-side require() the node.js way.
+- [webpack](https://github.com/webpack/webpack) - A bundler for javascript and friends.
+- [gulp](https://github.com/gulpjs/gulp) - The streaming build system.
+- [grunt](https://github.com/gruntjs/grunt) - The JavaScript Task Runner.
+- [browserify](https://github.com/substack/node-browserify) - Browser-side require() the node.js way.
 
 ### CSS Related
 
-- [:octocat:](https://github.com/less/less.js) [Less](http://lesscss.org/) - The dynamic stylesheet language.
-- [:octocat:](https://github.com/sass/node-sass) [Sass](http://sass-lang.com/) - Sass is the most mature, stable, and powerful professional grade CSS extension language in the world.
-- [:octocat:](https://github.com/stylus/stylus) [Stylus](http://learnboost.github.com/stylus/) - Expressive, robust, feature-rich CSS language built for nodejs.
-- [:octocat:](https://github.com/postcss/postcss) [Postcss](https://www.npmjs.com/package/postcss) - PostCSS is a tool for transforming styles with JS plugins. These plugins can support variables and mixins, transpile future CSS syntax, inline images, and more.
+- [less](https://github.com/less/less.js) - The dynamic stylesheet language.
+- [node-sass](https://github.com/sass/node-sass) - Node-sass is a library that provides binding for Node.js to libsass, the C version of the popular stylesheet preprocessor, Sass.
+- [stylus](https://github.com/stylus/stylus) - Expressive, robust, feature-rich CSS language built for nodejs.
+- [postcss](https://github.com/postcss/postcss) - PostCSS is a tool for transforming styles with JS plugins. These plugins can support variables and mixins, transpile future CSS syntax, inline images, and more.
 
-### other
+### ECMAScript Related
 
-- [:octocat:](https://github.com/babel/babel) [Babel](https://babeljs.io/) - Babel is a compiler for writing next generation JavaScript.
-- [:octocat:](https://github.com/tj/commander.js) [commander](https://www.npmjs.com/package/commander) - The complete solution for node.js command-line programs.
-- [:octocat:](https://github.com/substack/node-optimist) [optimist](https://www.npmjs.com/package/optimist) - Light-weight option parsing for node.js.
-- [:octocat:](https://github.com/npm/node-semver) [semver](https://www.npmjs.com/package/semver) - The semantic version parser used by npm.
+- [babel](https://github.com/babel/babel) - Babel is a compiler for writing next generation JavaScript.
+- [eslint](https://github.com/eslint/eslint) - A fully pluggable tool for identifying and reporting on patterns in JavaScript.
+- [jshint](https://github.com/jshint/jshint) - JSHint is a tool that helps to detect errors and potential problems in your JavaScript code.
+- [node-jslint](https://github.com/reid/node-jslint) - The JavaScript Code Quality Tool — for Node.js.
 
 ### Markdown
 
@@ -67,3 +67,6 @@
 - [extend](https://github.com/justmoon/node-extend) - Port of jQuery.extend for node.js and the browser.
 - [del](https://github.com/sindresorhus/del) - Delete files/folders using globs.
 - [glob](https://github.com/isaacs/node-glob) - Match files using the patterns the shell uses, like stars and stuff.
+- [commander](https://github.com/tj/commander.js) - The complete solution for node.js command-line programs.
+- [optimist](https://github.com/substack/node-optimist) - Light-weight option parsing for node.js.
+- [semver](https://github.com/npm/node-semver) - The semantic version parser used by npm.
