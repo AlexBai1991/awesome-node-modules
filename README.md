@@ -65,3 +65,5 @@
 ### Utils
 
 - [extend](https://github.com/justmoon/node-extend) - Port of jQuery.extend for node.js and the browser.
+- [del](https://github.com/sindresorhus/del) - Delete files/folders using globs.
+- [glob](https://github.com/isaacs/node-glob) - Match files using the patterns the shell uses, like stars and stuff.
