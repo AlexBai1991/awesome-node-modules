@@ -70,3 +70,4 @@
 - [commander](https://github.com/tj/commander.js) - The complete solution for node.js command-line programs.
 - [optimist](https://github.com/substack/node-optimist) - Light-weight option parsing for node.js.
 - [semver](https://github.com/npm/node-semver) - The semantic version parser used by npm.
+- [mkdirp](https://github.com/substack/node-mkdirp) - Recursively mkdir, like `mkdir -p`, but in node.js.
