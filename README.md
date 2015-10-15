@@ -27,6 +27,7 @@
 
 - [:octocat:](https://github.com/jadejs/jade) [jade](http://jade-lang.com/) - Robust, elegant, feature rich template engine for Node.js.
 - [:octocat:](https://github.com/mde/ejs) [ejs](http://ejs.co/) - Embedded JavaScript templates.
+- [Mu](https://github.com/raycmorgan/Mu) - A Node.js Mustache template engine (and compiler).
 
 ### Package Mangement Tools
 
