@@ -4,35 +4,36 @@
 - [http-proxy](https://github.com/nodejitsu/node-http-proxy) - An HTTP programmable proxying library that supports websockets. It is suitable for implementing components such as proxies and load balancers.
 - [router](https://github.com/pillarjs/router) - Simple middleware-style router.
 - [request](https://github.com/request/request) - Simplified HTTP request client.
+- [cheerio](https://github.com/cheeriojs/cheerio) - Fast, flexible, and lean implementation of core jQuery designed specifically for the server.
 
 ### Web Framework
-- [:octocat:](https://github.com/strongloop/express) [Express](http://expressjs.com/) - Fast, unopinionated, minimalist web framework for node.
-- [:octocat:](https://github.com/koajs/koa) [koa](http://koajs.com/) - Expressive middleware for node.js using generators.
+- [Express](https://github.com/strongloop/express) - Fast, unopinionated, minimalist web framework for node.
+- [koa](https://github.com/koajs/koa) - Expressive middleware for node.js using generators.
 
 ### Testing Framework
 
-- [:octocat:](https://github.com/mochajs/mocha) [mocha](http://mochajs.org/) - Simple, flexible, fun javascript test framework for node.js & the browser. (BDD, TDD, QUnit styles via interfaces).
-- [:octocat:](https://github.com/karma-runner/karma) [karma](http://karma-runner.github.io/0.13/index.html) - Spectacular Test Runner for JavaScript.
-- [:octocat:](https://github.com/jasmine/jasmine) [jasmine](http://jasmine.github.io/) - DOM-less simple JavaScript testing framework.
-- [:octocat:](https://github.com/jquery/qunit) [qunit](http://qunitjs.com/) - An easy-to-use JavaScript Unit Testing framework.
+- [mocha](https://github.com/mochajs/mocha) - Simple, flexible, fun javascript test framework for node.js & the browser. (BDD, TDD, QUnit styles via interfaces).
+- [karma](https://github.com/karma-runner/karma) - Spectacular Test Runner for JavaScript.
+- [jasmine](https://github.com/jasmine/jasmine) - DOM-less simple JavaScript testing framework.
+- [qunit](https://github.com/jquery/qunit) - An easy-to-use JavaScript Unit Testing framework.
 
 ### Assertion
 
-- [:octocat:](https://github.com/chaijs/chai) [chai](https://www.npmjs.com/package/chai) - BDD / TDD assertion framework for node.js and the browser that can be paired with any testing framework.
-- [:octocat:](https://github.com/shouldjs/should.js) [shoule.js](https://www.npmjs.com/package/should) - test framework agnostic BDD-style assertions.
-- [:octocat:](https://github.com/Automattic/expect.js) [expect.js](https://www.npmjs.com/package/expect.js) - Minimalistic BDD-style assertions for Node.JS and the browser.
-- [:octocat:](https://github.com/tj/better-assert) [better-assert](https://www.npmjs.com/package/better-assert) - C-style assert() for nodejs, reporting the expression string as the error message.
+- [chai](https://github.com/chaijs/chai) - BDD / TDD assertion framework for node.js and the browser that can be paired with any testing framework.
+- [shoule.js](https://github.com/shouldjs/should.js) - test framework agnostic BDD-style assertions.
+- [expect.js](https://github.com/Automattic/expect.js) - Minimalistic BDD-style assertions for Node.JS and the browser.
+- [better-assert](https://github.com/tj/better-assert) - C-style assert() for nodejs, reporting the expression string as the error message.
 
 ### Template Engine
 
-- [:octocat:](https://github.com/jadejs/jade) [jade](http://jade-lang.com/) - Robust, elegant, feature rich template engine for Node.js.
-- [:octocat:](https://github.com/mde/ejs) [ejs](http://ejs.co/) - Embedded JavaScript templates.
+- [jade](https://github.com/jadejs/jade) - Robust, elegant, feature rich template engine for Node.js.
+- [ejs](https://github.com/mde/ejs) - Embedded JavaScript templates.
 - [Mu](https://github.com/raycmorgan/Mu) - A Node.js Mustache template engine (and compiler).
 
 ### Package Mangement Tools
 
-- [:octocat:](https://github.com/npm/npm) [npm](https://www.npmjs.com/) - A package manager for javascript.
-- [:octocat:](https://github.com/bower/bower) [bower](http://bower.io/) - A package manager for the web.
+- [npm](https://www.npmjs.com/) - A package manager for javascript.
+- [bower](http://bower.io/) - A package manager for the web.
 
 ### Build Tools & Module Loaders
 
